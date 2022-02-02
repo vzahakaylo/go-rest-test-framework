@@ -1,5 +1,5 @@
 const request = require('supertest')
-const { randomString } = require('../../../corgi-greeninstaller-tests/cypress/helpers/random')
+const { randomString } = require('../helpers/random')
 
 describe('User creation:', () => {
   const emailValue = randomString(7).concat('@test.com')
