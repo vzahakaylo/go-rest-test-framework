@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# IDE files
+.idea
+.vs
+.vscode
+
+# OS files
+.DS_Store
+
+# Cypress files
+cypress/videos/
+cypress/results/
+cypress/screenshots/
