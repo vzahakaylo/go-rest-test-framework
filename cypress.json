@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://gorest.co.in/public/v1/users",
+  "watchForFileChanges": false,
+  "env": {
+    "authyToken": "9021fa3f2f8c14d6c92723600cc92460d117c3efde3f149b655750ac1e156588"
+  }
+}
